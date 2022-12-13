@@ -1,0 +1,42 @@
+.container-fluid {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #A7C7E7;
+  background-image: url(https://i.pinimg.com/236x/9a/7f/41/9a7f4176d57b67632ead3bc3552e781b.jpg);
+}
+
+.row {
+  border: 1px solid black;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 22px;
+  font-family: garamond;
+}
+
+.submit-btn {
+  text-align: center;
+}
+
+.form {
+  font-style: italic;
+  font-weight: bold;
+}
+
+header {
+  background-color: #7393B3;
+  background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/4303636-plano-lista-em-desenho-estilo-o-conceito-de-planejamento-e-execucao-bem-sucedida-dos-assuntos-vetor.jpg);
+  border: 1px solid #c0c0c0;
+  padding: 10px 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #7393B3;
+  background-image: url(https://www.remessaonline.com.br/blog/wp-content/uploads/2019/02/brasil.png);
+  border: 1px solid #c0c0c0;
+  padding: 10px 0;
+  text-align: center;
+  font-weight: bold;
